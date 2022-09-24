@@ -1,0 +1,20 @@
+Register API(with welcome mail)
+Login API
+Change Password
+
+
+JWT
+
+
+FAQ  :
+- user ref
+- id (mongo)
+- question
+- answer
+- softdelete
+- cat_ref
+
+
+FAQ category :
+- user ref
+- cat_name ;
